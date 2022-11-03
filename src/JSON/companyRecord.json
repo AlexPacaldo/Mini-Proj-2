@@ -1,0 +1,163 @@
+[
+{
+    "email":"accenture@gmail.com",
+    "company":"Accenture",
+    "job":"Back-End Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1200,"salEnd":13000,
+    "position":2
+},
+
+{
+    "email":"prime@gmail.com",
+    "company":"PRIME Philippines",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":1
+},
+
+{
+    "email":"dempsey@gmail.com",
+    "company":"Dempsey Resource Management Inc.",
+    "job":"Front-End Web Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1300,"salEnd":10000,
+    "position":3
+},
+
+{
+    "email":"Wonese@gmail.com",
+    "company":"Wonese",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":1
+},
+
+{
+    "email":"transec@gmail.com",
+    "company":"Transec BPO Solutions.",
+    "job":"Back-End Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1200,"salEnd":12000,
+    "position":2
+},
+
+{
+    "email":"jc@gmail.com",
+    "company":"John Clements",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":5
+},
+
+{
+    "email":"gain@gmail.com",
+    "company":"Gainstrong Manpower",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":6
+},
+
+{
+    "email":"creative@gmail.com",
+    "company":"CREATIVEHOPE PH INC.",
+    "job":"Front-End Web Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":700,"salEnd":10000,
+    "position":4
+},
+
+{
+    "email":"nav@gmail.com",
+    "company":"Navagis",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1400,"salEnd":10000,
+    "position":3
+},
+
+{
+    "email":"agri@gmail.com",
+    "company":"AgriNurture Inc",
+    "job":"Back-End Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":1
+},
+
+{
+    "email":"ginger@gmail.com",
+    "company":"GINGERSNAPS (IL Coniglio Bianco Corporation)",
+    "job":"Front-End Web Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1300,"salEnd":11000,
+    "position":5
+},
+
+{
+    "email":"SCHomes@gmail.com",
+    "company":"SC Homes",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1300,"salEnd":10000,
+    "position":5
+},
+
+{
+    "email":"dot@gmail.com",
+    "company":"dotPH",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":3
+},
+
+{
+    "email":"creedon@gmail.com",
+    "company":"Creedon Technologies",
+    "job":"Back-End Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":2000,"salEnd":12000,
+    "position":2
+},
+
+{
+    "email":"up@gmail.com",
+    "company":"Polytechnic University of the Philippines",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":900,"salEnd":10000,
+    "position":6
+},
+
+{
+    "email":"gan@gmail.com",
+    "company":"Gan Advanced Osseointegration Center",
+    "job":"Web Developer & SEO Specialist",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1250,"salEnd":12000,
+    "position":1
+},
+
+{
+    "email":"application@softship.com",
+    "company":"Softship GmbH",
+    "job":"Front-End Web Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":1000,"salEnd":10000,
+    "position":5
+},
+
+{
+    "email":"pino@gmail.com",
+    "company":"PINO Design Studio Inc.",
+    "job":"Full-Stack Developer",
+    "skills":"HTML, CSS, JavaScript, Phyton, C++, PHP",
+    "salStart":2000,"salEnd":13248,
+    "position":3
+}
+]

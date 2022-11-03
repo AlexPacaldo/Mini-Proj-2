@@ -1,0 +1,35 @@
+.applicantDiv{
+    width: 100%;
+    background-color: white;
+    border-radius: 50px;
+  }
+.companyDiv{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.skill{
+  background-color: #254E58;
+  border-radius: 50px;
+  color: white;
+  font-weight: 500;
+}
+.para{
+  font-size: 20px;
+}
+.body{
+  height: 100%;
+}
+ @media screen and (min-width:800px) {
+  .applicantDiv{
+    width: 70%;
+    }
+ }
+  @media screen and (min-width:500px){
+    
+    .companyDiv{
+    width: 90%;
+    }
+  }

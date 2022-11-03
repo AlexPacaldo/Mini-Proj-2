@@ -1,0 +1,42 @@
+nav{
+    min-height: 9vh;
+    background-color: #254E58;
+    color: white;
+  }
+.navMob{
+  background-color: #000;
+  height: 91vh;
+}
+.mainNavMob{
+  position: fixed;
+  z-index: 1000;
+  width: 250px;
+  left: -100%;
+  transition: 550ms
+}
+.mainNavMob.active{
+  left: 0;
+  transition: 350ms
+}
+.webIco{
+  width: 32px;
+  height: 32px;
+  margin-right: 7px;
+}
+
+  footer{
+    min-height: auto;
+    background-color: #000;
+    color: white;
+    font-size: small;
+  }
+  .social a{
+    color: white;
+  }
+  @media screen and (min-width:435px) {
+    .webIco{
+      width: 35px;
+      height: 35px;
+      margin-right: 7px;
+    }
+  }

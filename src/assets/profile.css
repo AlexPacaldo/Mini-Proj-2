@@ -1,0 +1,29 @@
+.maindiv{
+    min-height: 91vh;
+    background-color: #112D32;
+  }
+
+.profMainDiv{
+    width: 100%;
+    background-color: white;
+    border-radius: 50px;
+  }
+
+.profPic > img{
+    width: 200px;
+    border-radius: 50%;
+    border: 16px solid #000;
+}
+
+  @media screen and (min-width:400px) {
+    .profPic > img{
+      width: 300px;
+  }
+  
+  }
+
+  @media screen and (min-width:500px){
+    .profMainDiv{
+    width: 600px;
+    }
+  }

@@ -1,0 +1,197 @@
+[
+    
+    {
+        "fname":"Felix",
+        "lname":"Leupold",
+        "email":"felixLeupold@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://xiel.dev/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Genesis",
+        "lname":"Gabiola",
+        "email":"genesisGabiloa@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://genesisgabiola.now.sh/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Henry",
+        "lname":"Lee",
+        "email":"henryLee@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://dragon-star.onrender.com/#/home",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Ingus",
+        "lname":"Jansons",
+        "email":"ingusJansons@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://ingus.co.uk/",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Jack",
+        "lname":"Childs",
+        "email":"jackChilds@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://jackchilds.tech/",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Kaleigh",
+        "lname":"Scruggs",
+        "email":"kaleighScruggs@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"http://kaleighscruggs.com/",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Lars",
+        "lname":"Roettig",
+        "email":"larsRoettig@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://larsroettig.dev/",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Nico",
+        "lname":"Bachner",
+        "email":"nicoBachner@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://nicobachner.com/",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Madhan",
+        "lname":"K",
+        "email":"madhanK@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://madhank93.github.io/",
+        "gender":"M"
+    },
+
+    {
+        "fname":"Aakash",
+        "lname":"Sharma",
+        "email":"AakashSharma@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://aakash-sharma.netlify.app/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Ben",
+        "lname":"Rogers",
+        "email":"benRogers@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://benrogers.dev/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Chris Otto",
+        "lname":"Gomomit",
+        "email":"xchan824@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://chrisotto.dev/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Dale",
+        "lname":"French",
+        "email":"daleFrench@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://dalefrench.dev/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Ezekiel",
+        "lname":"Eukunola",
+        "email":"ezekielEkunola@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://ezekielekunola.com/",
+        "gender":"M"
+    },
+    
+    {
+        "fname":"Jessica",
+        "lname":"Gutierrez",
+        "email":"Jsscgtrrz26@gmail.com",
+        "skills":["HTML","CSS","JavaScript","PHP","Phyton","C++"],
+        "yearsOfExp":7,
+        "experience":"Software Engineer",
+        "job":"Front-End Web Developer",
+        "school":"Harvard University",
+        "link":"https://my-portfolio-gy4dpoy7c-jessy-g26.vercel.app/",
+        "gender":"F"
+    }
+]

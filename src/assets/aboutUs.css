@@ -1,0 +1,54 @@
+.image{
+    border-radius: 50%;
+    width: 130px;
+    border: 13px solid white;
+    position: relative;
+    top: -95px;
+  }
+  
+  .aboutContainer{
+    margin-top: -80px;
+  }
+  
+  .aboutShit{
+   margin-top: 130px;
+  }
+  
+  .aboutMaindiv{
+    min-height: 90vh;
+  }
+
+  .bgMain{
+    background-color: #112D32;
+  }
+
+  @media screen and (min-width:335px) {
+    .image{
+      border: 13px solid white;
+      width: 180px;
+      position: relative;
+      top: -95px;
+    }
+    .aboutContainer{
+      margin-top: -80px;
+    }
+    .aboutShit{
+      margin-top: 120px;
+     }
+  }
+   
+
+  @media screen and (min-width:430px) {
+    .image{
+      border: 20px solid white;
+      width: 250px;
+      position: relative;
+      top: -150px;
+    }
+    .aboutContainer{
+      margin-top: -120px;
+    }
+    .aboutShit{
+      margin-top: 180px;
+     }
+  }

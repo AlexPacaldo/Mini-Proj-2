@@ -1,0 +1,57 @@
+.hero{
+    min-height: 70vh;
+    background: url(web_dev_pillar_page.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: left;
+    color: white;
+  }
+  .herocont{
+    background-color: #254E58;
+    border-radius: 0px 100px 100px 0px;
+    margin-left: -50px;
+  }
+  .herocont > p{
+    font-size: 12px;
+  }
+  .herobutt{
+    font-size: 7px;
+  }
+  .secondSec{
+    min-height: 12vh;
+    background-color:#fafafa;
+    color: #62646a;
+  }
+  
+  .fourthSec{
+    min-height: 70vh;
+    background-color: white;
+    width: 100%;
+    margin: 0;
+  }
+  .imgCont > img{
+    width: 100%;
+    border-radius: 20px;
+  }
+  @media screen and (min-width:300px) {
+    .herocont > p{
+      font-size: 16px;
+    }
+    .herobutt{
+      font-size: 10px;
+    }
+  }
+  @media screen and (min-width:400px) {
+    .herocont > p{
+      font-size: 20px;
+    }
+    .herobutt{
+      font-size: 12px;
+    }
+  }
+  @media screen and (min-width:650px) {
+    .herocont > p{
+      font-size: 30px;
+    }
+  }

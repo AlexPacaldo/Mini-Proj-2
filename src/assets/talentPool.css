@@ -1,0 +1,42 @@
+.maindiv{
+    min-height: 90vh;
+   }
+  
+   .clickToLogin{
+    color: blue;
+    text-decoration: underline;
+  }
+  .clickToLogin:hover{
+    cursor: pointer;
+  }
+  .card{
+    
+  }
+  .cardStyle{
+    height: 100%;
+  }
+  .cardHeaderStyle{
+    background-color: #112D32;
+    color: white;
+  }
+  .cardFooterStyle{
+    background-color: #000
+  }
+  .cardButtonRight{
+    background-color: #88BDBC;
+    color: white;
+    font-weight: 500;
+  }
+  .cardButtonRight:hover{
+    background-color: #88bdbca0;
+    color: white;
+  }
+  .cardButtonLeft{
+    background-color: #254E58;
+    color: white;
+    font-weight: 500;
+  }
+  .cardButtonLeft:hover{
+    background-color: #254e58bb;
+    color: white;
+  }
