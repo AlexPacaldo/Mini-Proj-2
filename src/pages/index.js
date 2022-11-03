@@ -19,7 +19,7 @@ const Index = () => {
     <Router>
       <Header/>
        <Routes>
-            <Route exact path = "/" element={<Home/>}/>
+            <Route exact path = "/#" element={<Home/>}/>
             <Route exact path = "/talentPool" element={<TalentPool/>}/>
             <Route exact path = "/findAjob" element={<FindAjob/>}/>
             <Route exact path = "/aboutUs" element={<AboutUs/>}/>
