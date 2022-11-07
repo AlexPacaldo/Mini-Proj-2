@@ -24,7 +24,7 @@ function Login() {
 
     }
     const handleToReg = ()=>{
-        navigate('/Register');
+        navigate('/signUp');
     }
     useEffect(() => {
         if (Object.keys(formErrors).length === 0 && isSubmit) {
