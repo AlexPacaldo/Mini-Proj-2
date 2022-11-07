@@ -13,9 +13,11 @@ import Profile from './profile'
 import PostAJob from '../components/PostAJob'
 import DeveloperProfile from '../components/DeveloperProfile'
 import CompanyInfo from '../components/CompanyInfo'
+import { HashRouter } from "react-router-dom"
 
 const Index = () => {
   return (
+    <HashRouter>
     <Router>
       <Header/>
        <Routes>
@@ -33,6 +35,7 @@ const Index = () => {
         </Routes>
       <Footer/>
     </Router>
+    </HashRouter>
   )
 }
 
