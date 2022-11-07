@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router,Routes,Route} from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Home from './home'
@@ -13,10 +13,11 @@ import Profile from './profile'
 import PostAJob from '../components/PostAJob'
 import DeveloperProfile from '../components/DeveloperProfile'
 import CompanyInfo from '../components/CompanyInfo'
+import { HashRouter } from "react-router-dom";
 
 const Index = () => {
   return (
-    <Router>
+    <HashRouter>
       <Header/>
        <Routes>
             <Route exact path = "/" element={<Home/>}/>
@@ -32,7 +33,7 @@ const Index = () => {
             <Route exact path = "/CompanyInfo" element={<CompanyInfo/>}/>
         </Routes>
       <Footer/>
-    </Router>
+    </HashRouter>
   )
 }
 
