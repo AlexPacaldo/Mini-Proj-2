@@ -37,22 +37,22 @@ const Profile = () => {
               </div>
               <div className='text-center'>
                 <h1>{acctLogin[0].fname} {acctLogin[0].lname}</h1>
-                <p>Full Stack Developer</p>
+                <p>{acctLogin[0].job}</p>
               </div>
               <br></br><br></br>
               <div className='mx-4'>
-                <h3>Current Project</h3>
-                <span>Company ABC</span>
+                <h3>Email</h3>
+                <span>{acctLogin[0].email}</span>
               </div>
               <br></br>
               <div className='mx-4'>
-                <h3>Completed Project</h3>
-                <span>5</span>
+                <h3>Gender</h3>
+                <span>{acctLogin[0].gender}</span>
               </div>
               <br></br>
               <div className='mx-4'>
-                <h3>Hours per week</h3>
-                <span>More than 30 hrs per week</span>
+                <h3>Portfolio Link</h3>
+                <span>{acctLogin[0].link}</span>
               </div>
               <br></br>
               <br></br>

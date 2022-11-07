@@ -2,11 +2,11 @@ import React from 'react';
 import { useLocation } from 'react-router-dom';
 import male from '../assets/m.png'
 import female from '../assets/f.jpg'
-import '../assets/applicantProfile.css'
+import '../assets/developerProfile.css'
 
 
 
-const ApplicantProfile = () => {
+const DeveloperProfile = () => {
     const applicant = useLocation().state;
     window.scrollTo(0,0,);
 
@@ -73,4 +73,4 @@ const ApplicantProfile = () => {
   )
 }
 
-export default ApplicantProfile
+export default DeveloperProfile

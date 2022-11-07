@@ -64,8 +64,8 @@ let Header= () => {
               <div className="collapse navbar-collapse justify-content-center" >
                   <NavList>
                     <StyledLink to = '/'>Home</StyledLink>
-                    <StyledLink to = '/talentPool'>Developers</StyledLink> 
-                    <StyledLink to = '/findAjob'>Jobs</StyledLink>   
+                    <StyledLink to = '/developers'>Developers</StyledLink> 
+                    <StyledLink to = '/jobs'>Jobs</StyledLink>   
                     <StyledLink to = '/aboutUs'>About Us</StyledLink>                  
                   </NavList> 
               </div>
@@ -82,8 +82,8 @@ let Header= () => {
               <div className='navMob py-5'>
                   <NavList className='d-flex flex-column align-items-center'>
                     <StyledLink to = '/' onClick={()=>setShow(false)}>Home</StyledLink>
-                    <StyledLink to = '/talentPool' onClick={()=>setShow(false)}>Developers</StyledLink> 
-                    <StyledLink to = '/findAjob' onClick={()=>setShow(false)}>Jobs</StyledLink>   
+                    <StyledLink to = '/developers' onClick={()=>setShow(false)}>Developers</StyledLink> 
+                    <StyledLink to = '/jobs' onClick={()=>setShow(false)}>Jobs</StyledLink>   
                     <StyledLink to = '/aboutUs' onClick={()=>setShow(false)}>About Us</StyledLink>                  
                   </NavList>
                   <br></br><br></br>

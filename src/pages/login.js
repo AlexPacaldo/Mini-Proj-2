@@ -29,7 +29,6 @@ function Login() {
     useEffect(() => {
         if (Object.keys(formErrors).length === 0 && isSubmit) {
             console.log(formValues);
-            // alert(formValues.email);
             localStorage.setItem("isActive", JSON.stringify(true));
             localStorage.setItem("LoginEmail", JSON.stringify(formValues.email));
             navigate('/');

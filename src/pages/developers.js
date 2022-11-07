@@ -3,7 +3,7 @@ import applicantRecord from '../JSON/applicantRecord';
 import { useNavigate } from 'react-router-dom';
 import male from '../assets/m.png'
 import female from '../assets/f.jpg'
-import '../assets/talentPool.css'
+import '../assets/developers.css'
 
 
 let retrieveApplicantData;
@@ -15,12 +15,12 @@ let retrieveUsers = localStorage.getItem('Users') ? JSON.parse(localStorage.getI
 let isAdmin = localStorage.getItem('isAdmin') ? JSON.parse(localStorage.getItem('isAdmin')) : false;
 let isLogin = localStorage.getItem('isActive') ? JSON.parse(localStorage.getItem('isActive')) : false;
 
-const TalentPool = () => {
+const Developers = () => {
   const [applicants, setApplicants] = useState(retrieveApplicantData);
   const [loadMore, setLoadMore] = useState(applicants.length - 6);
 
   const navigate = useNavigate();
-  const handleBtn = (e) => { navigate('/ApplicantProfile', { state: e }) };
+  const handleBtn = (e) => { navigate('/DeveloperProfile', { state: e }) };
   const signinBtn = () => { navigate('/Login') };
 
 
@@ -96,4 +96,4 @@ const TalentPool = () => {
   )
 }
 
-export default TalentPool
+export default Developers

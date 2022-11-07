@@ -7,7 +7,7 @@ let retrieveJobRecord;
 retrieveJobRecord = localStorage.getItem('JobRecord')? JSON.parse(localStorage.getItem('JobRecord')):retrieveJobRecord = JobRecord;
 let isAdmin=localStorage.getItem('isAdmin')?JSON.parse(localStorage.getItem('isAdmin')):false;
 
-const FindAjob = () => {
+const Jobs = () => {
   console.log(retrieveJobRecord)
   
   const [jobs,setJobs]=useState(retrieveJobRecord);
@@ -71,4 +71,4 @@ const FindAjob = () => {
   )
 }
 
-export default FindAjob
+export default Jobs
